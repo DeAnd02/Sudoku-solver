@@ -1,0 +1,49 @@
+Average execution time:  65.71354166666667 difficulty:  easy1
+Number of execution solved:  15 / 30
+The average number of generations to find a solution (when found) is:  297.8
+The average number of collisions found (so when board is not solved) is:  4.4
+
+Average execution time:  86.490625 difficulty:  easy2
+Number of execution solved:  13 / 30
+The average number of generations to find a solution (when found) is:  358.2307692307692
+The average number of collisions found (so when board is not solved) is:  4.117647058823529
+
+Average execution time:  25.8421875 difficulty:  easy3
+Number of execution solved:  24 / 30
+The average number of generations to find a solution (when found) is:  329.2083333333333
+The average number of collisions found (so when board is not solved) is:  2.3333333333333335
+
+Average execution time:  89.8484375 difficulty:  medium1
+Number of execution solved:  3 / 30
+The average number of generations to find a solution (when found) is:  741.6666666666666
+The average number of collisions found (so when board is not solved) is:  4.888888888888889
+
+Average execution time:  63.55104166666667 difficulty:  medium2
+Number of execution solved:  2 / 30
+The average number of generations to find a solution (when found) is:  414.0
+The average number of collisions found (so when board is not solved) is:  4.964285714285714
+
+Average execution time:  88.925 difficulty:  medium3
+Number of execution solved:  4 / 30
+The average number of generations to find a solution (when found) is:  375.25
+The average number of collisions found (so when board is not solved) is:  4.230769230769231
+
+Average execution time:  112.165625 difficulty:  hard1
+Number of execution solved:  2 / 30
+The average number of generations to find a solution (when found) is:  515.5
+The average number of collisions found (so when board is not solved) is:  3.6785714285714284
+
+Average execution time:  95.8515625 difficulty:  hard2
+Number of execution solved:  6 / 30
+The average number of generations to find a solution (when found) is:  337.0
+The average number of collisions found (so when board is not solved) is:  4.458333333333333
+
+Average execution time:  250.18697916666667 difficulty:  hard3
+Number of execution solved:  1 / 30
+The average number of generations to find a solution (when found) is:  2974.0
+The average number of collisions found (so when board is not solved) is:  4.448275862068965
+
+Average execution time:  223.32395833333334 difficulty:  very hard
+Number of execution solved:  0 / 30
+The average number of generations to find a solution (when found) is:  0
+The average number of collisions found (so when board is not solved) is:  5.8
